@@ -20,12 +20,15 @@ Website: https://www.saucedemo.com
 Python
 Selenium WebDriver
 Chrome Browser
+
 PyCharm
 📂 Project Structure
 Project03_Logout
 │
 ├── logout_automation.py
 └── README.md
+
+
 ▶️ Test Scenario
 Launch the browser.
 Open SauceDemo.
@@ -34,9 +37,11 @@ Click the menu button.
 Select the Logout option.
 Verify that the login page is displayed.
 Close the browser.
+
 ✅ Expected Result
 The user logs out successfully.
 The application redirects to the login page.
+
 💡 Skills Demonstrated
 Selenium WebDriver
 Explicit Waits
@@ -44,11 +49,14 @@ Element Locators
 Navigation Menu Handling
 UI Automation
 End-to-End Testing
+
 🚀 Future Improvements
 Add assertions to verify the URL after logout.
 Capture screenshots when a test fails.
 Integrate with Pytest.
 Add logging and HTML reports.
+
+
 👩‍💻 Author
 
 Ramya
